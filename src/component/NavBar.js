@@ -21,7 +21,7 @@ function NavBars() {
             <Nav.Link to='/master-list'  href='#'>Add Master List</Nav.Link>
           </Nav.Item> */}
           <Nav.Item>
-            <Link to='/master-list' className='nav-opt'> Add Master List </Link>
+            <Link to='/master-list' className='nav-opt'> Add My Squad </Link>
           </Nav.Item>
         </Nav>
       </Container>

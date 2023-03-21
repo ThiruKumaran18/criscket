@@ -8,7 +8,7 @@ import NavBars from './component/NavBar';
 import MasterList from './component/MasterList';
 
 function App() {
-  console.log('dddddddddddddd');
+
   return (
     <>
       <BrowserRouter>
